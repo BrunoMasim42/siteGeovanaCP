@@ -127,23 +127,23 @@ section{
 
 @keyframes anime-h3{
     0%, 20%{
-        content: "CANDITADA A";
+        content: "RESTAURANTE";
     }
 
     21%, 40%{
-        content: "VEREADORA DE";
+        content: "COMIDAS TIPICAS";
     }
 
     41%, 60%{
-        content: "MACAPÁ.";
+        content: "À LA CARTE";
     }
 
     61%, 80%{
-        content: "MEU NÚMERO";
+        content: "PRATOS EXECUTIVOS";
     }
 
     81%, 100%{
-        content: "É 44190";
+        content: "E SELF-SERVICE";
     }
 }
 
